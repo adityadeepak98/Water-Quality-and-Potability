@@ -23,5 +23,4 @@ Data Usage:
 This dataset is valuable for water quality assessment, water treatment planning, and ensuring the safety of drinking water supplies. It can be utilized by water treatment plants, environmental agencies, and researchers to make data-driven decisions regarding water quality and potability.
 
 Data Source:
-The data was collected from here
-Credits go to them.
+The data was collected from Kaggle.com
